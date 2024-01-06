@@ -1,1 +1,6 @@
-{}
+{
+    "tsteine": {
+        "minecraft_name": "tsteine",
+        "permission": true
+    }
+}
