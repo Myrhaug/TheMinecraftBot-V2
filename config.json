@@ -1,16 +1,16 @@
 {
-    "bot_token": "MTE5MzE3NTczMzA5NTM3NDkwOA.GaSVot.7tIrJdPt8WzYCkBTgDBHHRczlK669u68qFHWsU",
-    "bot_owner_id": "327863497348349953",
-    "bot_name": "House of Harper",
+    "bot_token": "INSERT BOT-TOKEN HERE",
+    "bot_owner_id": "BOT-OWNER-ID",
+    "bot_name": "BOT NAME",
     "servers": [
         {
             "friendly_name": "Test server",
-            "server_ip": "f8989356-a83f-427c-b837-e98da183e731",
-            "server_rcon_port": 25565,
-            "server_rcon_password": "Q27b6xhAT7NKBf",
-            "server_port": 25564
+            "server_ip": "SERVER IP",
+            "server_rcon_port": RCON PORT,
+            "server_rcon_password": "PASSWORD",
+            "server_port": SERVER PORT
         }
     ],
-    "server_member_role_name": "Seekers",
-    "embed_title": "Harper Server Management"
+    "server_member_role_name": "DISCORD ROLE NAME",
+    "embed_title": "TITLE"
 }
