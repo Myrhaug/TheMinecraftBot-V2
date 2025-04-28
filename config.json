@@ -1,16 +1,17 @@
 {
-    "bot_token": "INSERT BOT-TOKEN HERE",
-    "bot_owner_id": "BOT-OWNER-ID",
-    "bot_name": "BOT NAME",
+    "bot_token": "YOUR_DISCORD_BOT_TOKEN_HERE",
+    "bot_owner_id": "YOUR_DISCORD_OWNER_ID_HERE",
+    "bot_name": "YourBotName",
     "servers": [
         {
-            "friendly_name": "Test server",
-            "server_ip": "SERVER IP",
-            "server_rcon_port": RCON PORT,
-            "server_rcon_password": "PASSWORD",
-            "server_port": SERVER PORT
-        }
-    ],
-    "server_member_role_name": "DISCORD ROLE NAME",
-    "embed_title": "TITLE"
-}
+            "friendly_name": "Friendly Server Name (shown on Discord)",
+            "server_ip": "Minecraft Server IP or Internal IP",
+            "server_rcon_port": 25575,
+            "server_rcon_password": "YourRconPassword",
+            "server_port": 25565
+          }
+        ],
+        "server_member_role_name": "Role Name for Normal Members",
+        "server_admin_role_name": "Role Name for Admins",
+        "embed_title": "Title Shown in Discord Embeds"
+      }
